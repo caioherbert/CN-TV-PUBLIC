@@ -1,0 +1,337 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Globo ES" tvg-logo="" group-title="TV Aberta",Globo ES
+https://canais.fazoeli.co.za/fontes/smart/globoes.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo MG" tvg-logo="" group-title="TV Aberta",Globo MG
+https://canais.fazoeli.co.za/fontes/smart/globomg.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ" tvg-logo="" group-title="TV Aberta",Globo RJ
+https://canais.fazoeli.co.za/fontes/smart/globorj.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RS" tvg-logo="" group-title="TV Aberta",Globo RS
+https://canais.fazoeli.co.za/fontes/smart/globors.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20S%c3%a3o%20Paulo.png" group-title="TV Aberta",Globo SP
+https://canais.fazoeli.co.za/fontes/smart/globosp.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Band" tvg-logo="" group-title="TV Aberta",Band
+https://canais.fazoeli.co.za/fontes/smart/band.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record Internacional" tvg-logo="" group-title="TV Aberta",Record Internacional
+https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record TV" tvg-logo="" group-title="TV Aberta",Record TV
+https://canais.fazoeli.co.za/fontes/smart/record.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RedeTV!" tvg-logo="" group-title="TV Aberta",RedeTV!
+https://canais.fazoeli.co.za/fontes/smart/redetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="" group-title="TV Aberta",SBT
+https://canais.fazoeli.co.za/fontes/smart/sbt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT Interior" tvg-logo="" group-title="TV Aberta",SBT Interior
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Aparecida" tvg-logo="" group-title="TV Aberta",TV Aparecida
+https://canais.fazoeli.co.za/fontes/smart/aparecida.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Brasil" tvg-logo="" group-title="TV Aberta",TV Brasil
+https://canais.fazoeli.co.za/fontes/smart/tvbrasil.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta" tvg-logo="" group-title="TV Aberta",TV Gazeta
+https://canais.fazoeli.co.za/fontes/smart/tvgazeta.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="" group-title="Filmes",Cinemax
+https://canais.fazoeli.co.za/fontes/smart/cinemax.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Curta!" tvg-logo="" group-title="Filmes",Curta!
+https://canais.fazoeli.co.za/fontes/smart/curta.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="Filmes",HBO
+https://canais.fazoeli.co.za/fontes/smart/hbo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="" group-title="Filmes",HBO 2
+https://canais.fazoeli.co.za/fontes/smart/hbo2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="" group-title="Filmes",HBO Family
+https://canais.fazoeli.co.za/fontes/smart/hbofamily.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi" tvg-logo="" group-title="Filmes",HBO Mundi
+https://canais.fazoeli.co.za/fontes/smart/hbomundi.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="" group-title="Filmes",HBO Plus
+https://canais.fazoeli.co.za/fontes/smart/hboplus.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Pop" tvg-logo="" group-title="Filmes",HBO Pop
+https://canais.fazoeli.co.za/fontes/smart/hbopop.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme" tvg-logo="" group-title="Filmes",HBO Xtreme
+https://canais.fazoeli.co.za/fontes/smart/hboxtreme.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Megapix" tvg-logo="" group-title="Filmes",Megapix
+https://canais.fazoeli.co.za/fontes/smart/megapix.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="" group-title="Filmes",Space
+https://canais.fazoeli.co.za/fontes/smart/space.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="" group-title="Filmes",Studio Universal
+https://canais.fazoeli.co.za/fontes/smart/studiouniversal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="" group-title="Filmes",TCM
+https://canais.fazoeli.co.za/fontes/smart/tcm.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action" tvg-logo="" group-title="Filmes",Telecine Action
+https://canais.fazoeli.co.za/fontes/smart/telecineaction.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult" tvg-logo="" group-title="Filmes",Telecine Cult
+https://canais.fazoeli.co.za/fontes/smart/telecinecult.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun" tvg-logo="https://docdog.top/logo/countries/brazil/telecinefun.png" group-title="Filmes",Telecine Fun
+https://canais.fazoeli.co.za/fontes/smart/telecinefun.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca" tvg-logo="" group-title="Filmes",Telecine Pipoca
+https://canais.fazoeli.co.za/fontes/smart/telecinepipoca.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium" tvg-logo="" group-title="Filmes",Telecine Premium
+https://canais.fazoeli.co.za/fontes/smart/telecinepremium.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch" tvg-logo="" group-title="Filmes",Telecine Touch
+https://canais.fazoeli.co.za/fontes/smart/telecinetouch.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="" group-title="Series",A&E
+https://canais.fazoeli.co.za/fontes/smart/ae.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="Series",AMC
+https://canais.fazoeli.co.za/fontes/smart/amc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="Series",AXN
+https://canais.fazoeli.co.za/fontes/smart/axn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Channel" tvg-logo="" group-title="Series",Sony Channel
+https://canais.fazoeli.co.za/fontes/smart/sonychannel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="Series",TNT
+https://canais.fazoeli.co.za/fontes/smart/tnt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas" tvg-logo="" group-title="Series",TNT Novelas
+https://canais.fazoeli.co.za/fontes/smart/tntnovelas.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="" group-title="Series",TNT Series
+https://canais.fazoeli.co.za/fontes/smart/tntseries.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Universal TV" tvg-logo="" group-title="Series",Universal TV
+https://canais.fazoeli.co.za/fontes/smart/universaltv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel" tvg-logo="" group-title="Series",Warner Channel
+https://canais.fazoeli.co.za/fontes/smart/warnerchannel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Band Sports" tvg-logo="" group-title="Esportes",Band Sports
+https://canais.fazoeli.co.za/fontes/smart/bandsports.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Combate" tvg-logo="" group-title="Esportes",Combate
+https://canais.fazoeli.co.za/fontes/smart/combate.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="" group-title="Esportes",ESPN
+https://canais.fazoeli.co.za/fontes/smart/espn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="" group-title="Esportes",ESPN 2
+https://canais.fazoeli.co.za/fontes/smart/espn2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="" group-title="Esportes",ESPN 3
+https://canais.fazoeli.co.za/fontes/smart/espn3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4" tvg-logo="" group-title="Esportes",ESPN 4
+https://canais.fazoeli.co.za/fontes/smart/espn4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5" tvg-logo="" group-title="Esportes",ESPN 5
+https://canais.fazoeli.co.za/fontes/smart/espn5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FIFA+ Português" tvg-logo="" group-title="Esportes",FIFA+ Português
+https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere" tvg-logo="" group-title="Esportes",Premiere
+https://canais.fazoeli.co.za/fontes/smart/premiere.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2" tvg-logo="" group-title="Esportes",Premiere 2
+https://canais.fazoeli.co.za/fontes/smart/premiere2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3" tvg-logo="" group-title="Esportes",Premiere 3
+https://canais.fazoeli.co.za/fontes/smart/premiere3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4" tvg-logo="" group-title="Esportes",Premiere 4
+https://canais.fazoeli.co.za/fontes/smart/premiere4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SporTV" tvg-logo="" group-title="Esportes",SporTV
+https://canais.fazoeli.co.za/fontes/smart/sportv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2" tvg-logo="" group-title="Esportes",SporTV 2
+https://canais.fazoeli.co.za/fontes/smart/sportv2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 3" tvg-logo="" group-title="Esportes",SporTV 3
+https://canais.fazoeli.co.za/fontes/smart/sportv3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Band News" tvg-logo="" group-title="Noticias",Band News
+https://canais.fazoeli.co.za/fontes/smart/bandnews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil" tvg-logo="" group-title="Noticias",CNN Brasil
+https://canais.fazoeli.co.za/fontes/smart/cnnbrasil.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo News" tvg-logo="" group-title="Noticias",Globo News
+https://canais.fazoeli.co.za/fontes/smart/globonews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan News" tvg-logo="" group-title="Noticias",Jovem Pan News
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record News" tvg-logo="" group-title="Noticias",Record News
+https://canais.fazoeli.co.za/fontes/smart/recordnews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STZ TV" tvg-logo="" group-title="Noticias",STZ TV
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h Dragon Ball" tvg-logo="" group-title="Infantil",24h Dragon Ball
+https://canais.fazoeli.co.za/fontes/smart/24h_dragonball.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h Dragon Ball" tvg-logo="" group-title="Infantil",24h Dragon Ball
+https://canais.fazoeli.co.za/fontes/smart/24h_dragonball.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h Simpsons" tvg-logo="" group-title="Infantil",24h Simpsons
+https://canais.fazoeli.co.za/fontes/smart/24h_simpsons.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h Todo Mundo Odeia o Chris" tvg-logo="" group-title="Infantil",24h Todo Mundo Odeia o Chris
+https://canais.fazoeli.co.za/fontes/smart/24h_odeiachris.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="Infantil",Cartoon Network
+https://canais.fazoeli.co.za/fontes/smart/cartoonnetwork.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="" group-title="Infantil",Cartoonito
+https://canais.fazoeli.co.za/fontes/smart/cartoonito.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="" group-title="Infantil",Discovery Kids
+https://canais.fazoeli.co.za/fontes/smart/discoverykids.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Geekdot" tvg-logo="" group-title="Infantil",Geekdot
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gloob" tvg-logo="" group-title="Infantil",Gloob
+https://canais.fazoeli.co.za/fontes/smart/gloob.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="Documentarios",Animal Planet
+https://canais.fazoeli.co.za/fontes/smart/animalplanet.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="" group-title="Documentarios",Discovery Channel
+https://canais.fazoeli.co.za/fontes/smart/discoverychannel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H" tvg-logo="" group-title="Documentarios",Discovery H&H
+https://canais.fazoeli.co.za/fontes/smart/discoveryhh.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="" group-title="Documentarios",Discovery Science
+https://canais.fazoeli.co.za/fontes/smart/discoveryscience.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="" group-title="Documentarios",Discovery Turbo
+https://canais.fazoeli.co.za/fontes/smart/discoveryturbo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="" group-title="Documentarios",Discovery World
+https://canais.fazoeli.co.za/fontes/smart/discoveryworld.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="" group-title="Documentarios",Food Network
+https://canais.fazoeli.co.za/fontes/smart/foodnetwork.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="" group-title="Documentarios",HGTV
+https://canais.fazoeli.co.za/fontes/smart/hgtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="" group-title="Documentarios",History
+https://canais.fazoeli.co.za/fontes/smart/history.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History 2" tvg-logo="" group-title="Documentarios",History 2
+https://canais.fazoeli.co.za/fontes/smart/history2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-logo="" group-title="Documentarios",Investigation Discovery
+https://canais.fazoeli.co.za/fontes/smart/discoveryid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="Documentarios",TLC
+https://canais.fazoeli.co.za/fontes/smart/tlc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arte 1" tvg-logo="" group-title="Entretenimento",Arte 1
+https://canais.fazoeli.co.za/fontes/smart/arte1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adult Swim" tvg-logo="" group-title="Entretenimento",Adult Swim
+https://canais.fazoeli.co.za/fontes/smart/adultswim.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAN 1" tvg-logo="" group-title="Entretenimento",BBB CAN 1
+https://canais.fazoeli.co.za/fontes/smart/bbb1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAN 10" tvg-logo="" group-title="Entretenimento",BBB CAN 10
+https://canais.fazoeli.co.za/fontes/smart/bbb10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAN 2" tvg-logo="" group-title="Entretenimento",BBB CAN 2
+https://canais.fazoeli.co.za/fontes/smart/bbb2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAN 3" tvg-logo="" group-title="Entretenimento",BBB CAN 3
+https://canais.fazoeli.co.za/fontes/smart/bbb3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAN 4" tvg-logo="" group-title="Entretenimento",BBB CAN 4
+https://canais.fazoeli.co.za/fontes/smart/bbb4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAN 5" tvg-logo="" group-title="Entretenimento",BBB CAN 5
+https://canais.fazoeli.co.za/fontes/smart/bbb5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAN 6" tvg-logo="" group-title="Entretenimento",BBB CAN 6
+https://canais.fazoeli.co.za/fontes/smart/bbb6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAN 7" tvg-logo="" group-title="Entretenimento",BBB CAN 7
+https://canais.fazoeli.co.za/fontes/smart/bbb7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAN 8" tvg-logo="" group-title="Entretenimento",BBB CAN 8
+https://canais.fazoeli.co.za/fontes/smart/bbb8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAN 9" tvg-logo="" group-title="Entretenimento",BBB CAN 9
+https://canais.fazoeli.co.za/fontes/smart/bbb9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BIS" tvg-logo="" group-title="Entretenimento",BIS
+https://canais.fazoeli.co.za/fontes/smart/bis.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Classique TV" tvg-logo="" group-title="Entretenimento",Classique TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="" group-title="Entretenimento",GNT
+https://canais.fazoeli.co.za/fontes/smart/gnt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gospel Movie TV" tvg-logo="" group-title="Entretenimento",Gospel Movie TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Loading" tvg-logo="" group-title="Entretenimento",Loading
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Multishow" tvg-logo="" group-title="Entretenimento",Multishow
+https://canais.fazoeli.co.za/fontes/smart/multishow.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MyTime Movie" tvg-logo="" group-title="Entretenimento",MyTime Movie
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OFF" tvg-logo="" group-title="Entretenimento",OFF
+https://canais.fazoeli.co.za/fontes/smart/off.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Revry Brasil" tvg-logo="" group-title="Entretenimento",Revry Brasil
+https://linear-181.frequency.stream/dist/24i/181/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Cultura" tvg-logo="" group-title="Entretenimento",TV Cultura
+https://canais.fazoeli.co.za/fontes/smart/cultura.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viva" tvg-logo="" group-title="Entretenimento",Viva
+https://canais.fazoeli.co.za/fontes/smart/viva.m3u8
+
+--- Filmes ---
+#EXTINF:-1 tvg-id="" tvg-name="Zootopia: Essa Cidade é o Bicho (2016)" tvg-logo="https://image.tmdb.org/t/p/w780/jyjBSQ7lCS2XolhbLeAH5HhXahY.jpg" group-title="Animação",Zootopia: Essa Cidade é o Bicho (2016)
+http://site.poupadefrutas.shop:80/movie/cleberson24/24danbury888BBB/1143131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zootopia 2 (2026)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmI4M2JjYjgtZTA4Mi00N2IyLWI3MjYtMGJjZGQxYzA5NGY1XkEyXkFqcGc@._V1_.jpg" group-title="Animação",Zootopia 2 (2026)
+http://pygz.net:80/movie/832117/960996/935522.mp4
+
+--- Séries ---
+-Fallout--
+#EXTINF:-1 tvg-id="" tvg-name="Fallout S01 E01" tvg-logo="https://sm.ign.com/ign_fr/tv/f/fallout-th/fallout-the-series_knb7.jpg" group-title="Prime Vídeo",Fallout S01 E01
+http://site.poupadefrutas.shop:80/series/cleberson24/24danbury888BBB/935555.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fallout S01 E02" tvg-logo="https://sm.ign.com/ign_fr/tv/f/fallout-th/fallout-the-series_knb7.jpg" group-title="Prime Vídeo",Fallout S01 E02
+http://site.poupadefrutas.shop:80/series/cleberson24/24danbury888BBB/935556.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fallout S01 E03" tvg-logo="https://sm.ign.com/ign_fr/tv/f/fallout-th/fallout-the-series_knb7.jpg" group-title="Prime Vídeo",Fallout S01 E03
+http://site.poupadefrutas.shop:80/series/cleberson24/24danbury888BBB/935557.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fallout S01 E04" tvg-logo="https://sm.ign.com/ign_fr/tv/f/fallout-th/fallout-the-series_knb7.jpg" group-title="Prime Vídeo",Fallout S01 E04
+http://site.poupadefrutas.shop:80/series/cleberson24/24danbury888BBB/935558.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fallout S01 E05" tvg-logo="https://sm.ign.com/ign_fr/tv/f/fallout-th/fallout-the-series_knb7.jpg" group-title="Prime Vídeo",Fallout S01 E05
+http://site.poupadefrutas.shop:80/series/cleberson24/24danbury888BBB/935559.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fallout S01 E06" tvg-logo="https://sm.ign.com/ign_fr/tv/f/fallout-th/fallout-the-series_knb7.jpg" group-title="Prime Vídeo",Fallout S01 E06
+http://site.poupadefrutas.shop:80/series/cleberson24/24danbury888BBB/935560.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fallout S01 E07" tvg-logo="https://sm.ign.com/ign_fr/tv/f/fallout-th/fallout-the-series_knb7.jpg" group-title="Prime Vídeo",Fallout S01 E07
+http://site.poupadefrutas.shop:80/series/cleberson24/24danbury888BBB/935561.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fallout S01 E08" tvg-logo="https://sm.ign.com/ign_fr/tv/f/fallout-th/fallout-the-series_knb7.jpg" group-title="Prime Vídeo",Fallout S01 E08
+http://site.poupadefrutas.shop:80/series/cleberson24/24danbury888BBB/935562.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Fallout S02 E01" tvg-logo="https://sm.ign.com/ign_fr/tv/f/fallout-th/fallout-the-series_knb7.jpg" group-title="Prime Vídeo",Fallout S02 E01
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/323624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fallout S02 E02" tvg-logo="https://sm.ign.com/ign_fr/tv/f/fallout-th/fallout-the-series_knb7.jpg" group-title="Prime Vídeo",Fallout S02 E02
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/358665.mp4
+
+- Guerreiros Do Sol - 
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E01" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E01
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346182.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E02" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E02
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346183.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E03" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E03
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346184.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E04" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E04
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346185.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E05" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E05
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346186.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E06" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E06
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346187.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E07" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E07
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346188.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E08" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E08
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346189.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E09" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E09
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346190.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E10" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E10
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346191.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E11" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E11
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346192.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E12" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E12
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346193.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E13" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E13
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346194.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E14" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E14
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346195.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E15" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E15
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346196.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E16" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E16
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346197.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E17" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E17
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E18" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E18
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346199.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E19" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E19
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346200.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E20" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E20
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346201.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E21" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E21
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E22" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E22
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346203.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E23" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E23
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346204.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E24" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E24
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346205.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E25" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E25
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346206.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E26" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E26
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346207.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E27" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E27
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346208.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E28" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E28
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E29" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E29
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E30" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E30
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346211.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E31" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E31
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E32" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E32
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E33" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E33
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E34" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E34
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E35" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E35
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E36" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E36
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E37" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E37
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E38" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E38
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E39" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E39
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E40" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E40
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346221.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E42" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E41
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346222.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E42" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E42
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/346223.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E43" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E43
+http://site.poupadefrutas.shop:80/series/cleberson24/24danbury888BBB/1269637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E44" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E44
+http://site.poupadefrutas.shop:80/series/cleberson24/24danbury888BBB/1269638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Do Sol S01 E45" tvg-logo="" group-title="Globoplay",Guerreiros Do Sol S01 E44
+http://site.poupadefrutas.shop:80/series/cleberson24/24danbury888BBB/1269639.mp4
